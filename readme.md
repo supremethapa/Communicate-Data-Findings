@@ -1,5 +1,5 @@
 # Communicate-Data-Findings
-## by Suryaday Nath
+## by Junth Basnet
 
 ## Dataset
 
